@@ -3,22 +3,22 @@ accordianModule
 
 The accordianModule can be used to effectively display a lot of content in a small area while providing some cool functionality.
 
-### There are a few things to know before using this in your project:
+## There are a few things to know before using this in your project:
 
-* For starters, I built this with my boilerplate but you DON'T need my boilerplate to make the module work in your project
-* The module requires the HTML to build it, the CSS to style it and the JS/JQuery to give it the functionality
-* Things that my boilerplate does, that you'll need to change in your project:
-** My boilerplate has predefined classes with varying widths that I toggle with jQuery, which in turn gives the accordian effect. So if you're not using my boilerplate make sure you make classes w/ varying widths (depending on your project) and replace my classes with yours (e.g 'desk-one-third', 'desk-one-tenth', 'lap-one-whole', etc)
-** When you run the gulp task and process the code (instructions below), it will process my entire stylesheet which has normalizer, vairables, and a whole lot of other things you don't need if your not using my boilerplate for your entire project
-** To prevent this, comment out the "@import 'manifest';" at the top of app.scss so that you only get the styles crucial to the module
-** Keep in mind my boilerplate automaticaly adds vendor classes for browser support. Ensure your css has these include for animations and transforms
-** Keep in mind, you may need to make a few CSS adjustments if you do that.
-* I've created two branches to this repo. 'master' which is the main one and current one that your on and 'include-Bg-Images'.
-** The difference between the two is that 'master' doesn't have a background image funcitonality but 'include-BG-Images' does. This will be specific to your project
-* Questions?
-** Adam.Knee@dcsg.com
+1. For starters, I built this with my boilerplate but you DON'T need my boilerplate to make the module work in your project
+2. The module requires the HTML to build it, the CSS to style it and the JS/JQuery to give it the functionality
+3. Things that my boilerplate does, that you'll need to change in your project:
+  i. My boilerplate has predefined classes with varying widths that I toggle with jQuery, which in turn gives the accordian effect. So if you're not using my boilerplate make sure you make classes w/ varying widths (depending on your project) and replace my classes with yours (e.g 'desk-one-third', 'desk-one-tenth', 'lap-one-whole', etc)
+  ii. When you run the gulp task and process the code (instructions below), it will process my entire stylesheet which has normalizer, vairables, and a whole lot of other things you don't need if your not using my boilerplate for your entire project
+  iii. To prevent this, comment out the "import 'manifest';" at the top of app.scss so that you only get the styles crucial to the module
+  iv. Keep in mind my boilerplate automaticaly adds vendor classes for browser support. Ensure your css has these include for animations and transforms
+  v. Keep in mind, you may need to make a few CSS adjustments if you do that.
+4. I've created two branches to this repo. 'master' which is the main one and current one that your on and 'include-Bg-Images'.
+  i. The difference between the two is that 'master' doesn't have a background image funcitonality but 'include-BG-Images' does. This will be specific to your project
+5. Questions?
+  i. Adam.Knee@dcsg.com
 
-### Using the boilerplate & getting started:
+## Using the boilerplate & getting started:
 
 mySpaceBase
 =========
