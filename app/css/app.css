@@ -2,329 +2,329 @@
   spaceBase version: 3.0.1
   http://spacebase.space150.com
 */
-.mySpaceBaseWrap .gw,
-.mySpaceBaseWrap .grid-wrapper {
+.gameCrusher3Wrap .gw,
+.gameCrusher3Wrap .grid-wrapper {
   list-style: none;
   margin-bottom: 0;
-  margin-left: -1.75rem; }
-  .mySpaceBaseWrap .gw:after,
-  .mySpaceBaseWrap .grid-wrapper:after {
+  margin-left: -2%; }
+  .gameCrusher3Wrap .gw:after,
+  .gameCrusher3Wrap .grid-wrapper:after {
     display: table;
     content: "";
     clear: both; }
 
-.mySpaceBaseWrap .gw--rev > .g,
-.mySpaceBaseWrap .grid-wrapper--rev > .grid {
+.gameCrusher3Wrap .gw--rev > .g,
+.gameCrusher3Wrap .grid-wrapper--rev > .grid {
   float: right; }
 
-.mySpaceBaseWrap .gw--full,
-.mySpaceBaseWrap .grid-wrapper--full {
+.gameCrusher3Wrap .gw--full,
+.gameCrusher3Wrap .grid-wrapper--full {
   margin-left: 0; }
-  .mySpaceBaseWrap .gw--full > .g,
-  .mySpaceBaseWrap .gw--full > .grid,
-  .mySpaceBaseWrap .grid-wrapper--full > .g,
-  .mySpaceBaseWrap .grid-wrapper--full > .grid {
+  .gameCrusher3Wrap .gw--full > .g,
+  .gameCrusher3Wrap .gw--full > .grid,
+  .gameCrusher3Wrap .grid-wrapper--full > .g,
+  .gameCrusher3Wrap .grid-wrapper--full > .grid {
     padding-left: 0; }
 
-.mySpaceBaseWrap .gw > .gw,
-.mySpaceBaseWrap .grid-wrapper > .grid-wrapper {
+.gameCrusher3Wrap .gw > .gw,
+.gameCrusher3Wrap .grid-wrapper > .grid-wrapper {
   margin-left: 0; }
 
-.mySpaceBaseWrap .g,
-.mySpaceBaseWrap .grid {
+.gameCrusher3Wrap .g,
+.gameCrusher3Wrap .grid {
   float: left;
   width: 100%;
-  padding-left: 1.75rem;
+  padding-left: 2%;
   transition: width .15s ease; }
 
-.myspaceBaseWrap .one-whole {
+.gameCrusher3Wrap .one-whole {
   width: 100%; }
 
-.myspaceBaseWrap .one-half, .myspaceBaseWrap .two-quarters, .myspaceBaseWrap .three-sixths, .myspaceBaseWrap .four-eighths, .myspaceBaseWrap .five-tenths, .myspaceBaseWrap .six-twelfths {
+.gameCrusher3Wrap .one-half, .gameCrusher3Wrap .two-quarters, .gameCrusher3Wrap .three-sixths, .gameCrusher3Wrap .four-eighths, .gameCrusher3Wrap .five-tenths, .gameCrusher3Wrap .six-twelfths {
   width: 50%; }
 
-.myspaceBaseWrap .one-third, .myspaceBaseWrap .two-sixths, .myspaceBaseWrap .four-twelfths {
+.gameCrusher3Wrap .one-third, .gameCrusher3Wrap .two-sixths, .gameCrusher3Wrap .four-twelfths {
   width: 33.33333%; }
 
-.myspaceBaseWrap .two-thirds, .myspaceBaseWrap .four-sixths, .myspaceBaseWrap .eight-twelfths {
+.gameCrusher3Wrap .two-thirds, .gameCrusher3Wrap .four-sixths, .gameCrusher3Wrap .eight-twelfths {
   width: 66.66667%; }
 
-.myspaceBaseWrap .one-quarter, .myspaceBaseWrap .two-eighths, .myspaceBaseWrap .three-twelfths {
+.gameCrusher3Wrap .one-quarter, .gameCrusher3Wrap .two-eighths, .gameCrusher3Wrap .three-twelfths {
   width: 25%; }
 
-.myspaceBaseWrap .three-quarters, .myspaceBaseWrap .six-eighths, .myspaceBaseWrap .nine-twelfths {
+.gameCrusher3Wrap .three-quarters, .gameCrusher3Wrap .six-eighths, .gameCrusher3Wrap .nine-twelfths {
   width: 75%; }
 
-.myspaceBaseWrap .one-fifth, .myspaceBaseWrap .two-tenths {
+.gameCrusher3Wrap .one-fifth, .gameCrusher3Wrap .two-tenths {
   width: 20%; }
 
-.myspaceBaseWrap .two-fifths, .myspaceBaseWrap .four-tenths {
+.gameCrusher3Wrap .two-fifths, .gameCrusher3Wrap .four-tenths {
   width: 40%; }
 
-.myspaceBaseWrap .three-fifths, .myspaceBaseWrap .six-tenths {
+.gameCrusher3Wrap .three-fifths, .gameCrusher3Wrap .six-tenths {
   width: 60%; }
 
-.myspaceBaseWrap .four-fifths, .myspaceBaseWrap .eight-tenths {
+.gameCrusher3Wrap .four-fifths, .gameCrusher3Wrap .eight-tenths {
   width: 80%; }
 
-.myspaceBaseWrap .one-sixth, .myspaceBaseWrap .two-twelfths {
+.gameCrusher3Wrap .one-sixth, .gameCrusher3Wrap .two-twelfths {
   width: 16.66667%; }
 
-.myspaceBaseWrap .five-sixths, .myspaceBaseWrap .ten-twelfths {
+.gameCrusher3Wrap .five-sixths, .gameCrusher3Wrap .ten-twelfths {
   width: 83.33333%; }
 
-.myspaceBaseWrap .one-eighth {
+.gameCrusher3Wrap .one-eighth {
   width: 12.5%; }
 
-.myspaceBaseWrap .three-eighths {
+.gameCrusher3Wrap .three-eighths {
   width: 37.5%; }
 
-.myspaceBaseWrap .five-eighths {
+.gameCrusher3Wrap .five-eighths {
   width: 62.5%; }
 
-.myspaceBaseWrap .seven-eighths {
+.gameCrusher3Wrap .seven-eighths {
   width: 87.5%; }
 
-.myspaceBaseWrap .one-tenth {
+.gameCrusher3Wrap .one-tenth {
   width: 10%; }
 
-.myspaceBaseWrap .three-tenths {
+.gameCrusher3Wrap .three-tenths {
   width: 30%; }
 
-.myspaceBaseWrap .seven-tenths {
+.gameCrusher3Wrap .seven-tenths {
   width: 70%; }
 
-.myspaceBaseWrap .nine-tenths {
+.gameCrusher3Wrap .nine-tenths {
   width: 90%; }
 
-.myspaceBaseWrap .one-twelfth {
+.gameCrusher3Wrap .one-twelfth {
   width: 8.33333%; }
 
-.myspaceBaseWrap .five-twelfths {
+.gameCrusher3Wrap .five-twelfths {
   width: 41.66667%; }
 
-.myspaceBaseWrap .seven-twelfths {
+.gameCrusher3Wrap .seven-twelfths {
   width: 58.33333%; }
 
-.myspaceBaseWrap .eleven-twelfths {
+.gameCrusher3Wrap .eleven-twelfths {
   width: 91.66667%; }
 
-@media screen and (min-width: 30em) {
-  .myspaceBaseWrap .hand-one-whole {
+@media screen and (min-width: 20em) {
+  .gameCrusher3Wrap .hand-one-whole {
     width: 100%; }
-  .myspaceBaseWrap .hand-one-half, .myspaceBaseWrap .hand-two-quarters, .myspaceBaseWrap .hand-three-sixths, .myspaceBaseWrap .hand-four-eighths, .myspaceBaseWrap .hand-five-tenths, .myspaceBaseWrap .hand-six-twelfths {
+  .gameCrusher3Wrap .hand-one-half, .gameCrusher3Wrap .hand-two-quarters, .gameCrusher3Wrap .hand-three-sixths, .gameCrusher3Wrap .hand-four-eighths, .gameCrusher3Wrap .hand-five-tenths, .gameCrusher3Wrap .hand-six-twelfths {
     width: 50%; }
-  .myspaceBaseWrap .hand-one-third, .myspaceBaseWrap .hand-two-sixths, .myspaceBaseWrap .hand-four-twelfths {
+  .gameCrusher3Wrap .hand-one-third, .gameCrusher3Wrap .hand-two-sixths, .gameCrusher3Wrap .hand-four-twelfths {
     width: 33.33333%; }
-  .myspaceBaseWrap .hand-two-thirds, .myspaceBaseWrap .hand-four-sixths, .myspaceBaseWrap .hand-eight-twelfths {
+  .gameCrusher3Wrap .hand-two-thirds, .gameCrusher3Wrap .hand-four-sixths, .gameCrusher3Wrap .hand-eight-twelfths {
     width: 66.66667%; }
-  .myspaceBaseWrap .hand-one-quarter, .myspaceBaseWrap .hand-two-eighths, .myspaceBaseWrap .hand-three-twelfths {
+  .gameCrusher3Wrap .hand-one-quarter, .gameCrusher3Wrap .hand-two-eighths, .gameCrusher3Wrap .hand-three-twelfths {
     width: 25%; }
-  .myspaceBaseWrap .hand-three-quarters, .myspaceBaseWrap .hand-six-eighths, .myspaceBaseWrap .hand-nine-twelfths {
+  .gameCrusher3Wrap .hand-three-quarters, .gameCrusher3Wrap .hand-six-eighths, .gameCrusher3Wrap .hand-nine-twelfths {
     width: 75%; }
-  .myspaceBaseWrap .hand-one-fifth, .myspaceBaseWrap .hand-two-tenths {
+  .gameCrusher3Wrap .hand-one-fifth, .gameCrusher3Wrap .hand-two-tenths {
     width: 20%; }
-  .myspaceBaseWrap .hand-two-fifths, .myspaceBaseWrap .hand-four-tenths {
+  .gameCrusher3Wrap .hand-two-fifths, .gameCrusher3Wrap .hand-four-tenths {
     width: 40%; }
-  .myspaceBaseWrap .hand-three-fifths, .myspaceBaseWrap .hand-six-tenths {
+  .gameCrusher3Wrap .hand-three-fifths, .gameCrusher3Wrap .hand-six-tenths {
     width: 60%; }
-  .myspaceBaseWrap .hand-four-fifths, .myspaceBaseWrap .hand-eight-tenths {
+  .gameCrusher3Wrap .hand-four-fifths, .gameCrusher3Wrap .hand-eight-tenths {
     width: 80%; }
-  .myspaceBaseWrap .hand-one-sixth, .myspaceBaseWrap .hand-two-twelfths {
+  .gameCrusher3Wrap .hand-one-sixth, .gameCrusher3Wrap .hand-two-twelfths {
     width: 16.66667%; }
-  .myspaceBaseWrap .hand-five-sixths, .myspaceBaseWrap .hand-ten-twelfths {
+  .gameCrusher3Wrap .hand-five-sixths, .gameCrusher3Wrap .hand-ten-twelfths {
     width: 83.33333%; }
-  .myspaceBaseWrap .hand-one-eighth {
+  .gameCrusher3Wrap .hand-one-eighth {
     width: 12.5%; }
-  .myspaceBaseWrap .hand-three-eighths {
+  .gameCrusher3Wrap .hand-three-eighths {
     width: 37.5%; }
-  .myspaceBaseWrap .hand-five-eighths {
+  .gameCrusher3Wrap .hand-five-eighths {
     width: 62.5%; }
-  .myspaceBaseWrap .hand-seven-eighths {
+  .gameCrusher3Wrap .hand-seven-eighths {
     width: 87.5%; }
-  .myspaceBaseWrap .hand-one-tenth {
+  .gameCrusher3Wrap .hand-one-tenth {
     width: 10%; }
-  .myspaceBaseWrap .hand-three-tenths {
+  .gameCrusher3Wrap .hand-three-tenths {
     width: 30%; }
-  .myspaceBaseWrap .hand-seven-tenths {
+  .gameCrusher3Wrap .hand-seven-tenths {
     width: 70%; }
-  .myspaceBaseWrap .hand-nine-tenths {
+  .gameCrusher3Wrap .hand-nine-tenths {
     width: 90%; }
-  .myspaceBaseWrap .hand-one-twelfth {
+  .gameCrusher3Wrap .hand-one-twelfth {
     width: 8.33333%; }
-  .myspaceBaseWrap .hand-five-twelfths {
+  .gameCrusher3Wrap .hand-five-twelfths {
     width: 41.66667%; }
-  .myspaceBaseWrap .hand-seven-twelfths {
+  .gameCrusher3Wrap .hand-seven-twelfths {
     width: 58.33333%; }
-  .myspaceBaseWrap .hand-eleven-twelfths {
+  .gameCrusher3Wrap .hand-eleven-twelfths {
     width: 91.66667%; } }
 
-@media screen and (min-width: 48em) {
-  .myspaceBaseWrap .lap-one-whole {
+@media screen and (min-width: 40.625em) {
+  .gameCrusher3Wrap .lap-one-whole {
     width: 100%; }
-  .myspaceBaseWrap .lap-one-half, .myspaceBaseWrap .lap-two-quarters, .myspaceBaseWrap .lap-three-sixths, .myspaceBaseWrap .lap-four-eighths, .myspaceBaseWrap .lap-five-tenths, .myspaceBaseWrap .lap-six-twelfths {
+  .gameCrusher3Wrap .lap-one-half, .gameCrusher3Wrap .lap-two-quarters, .gameCrusher3Wrap .lap-three-sixths, .gameCrusher3Wrap .lap-four-eighths, .gameCrusher3Wrap .lap-five-tenths, .gameCrusher3Wrap .lap-six-twelfths {
     width: 50%; }
-  .myspaceBaseWrap .lap-one-third, .myspaceBaseWrap .lap-two-sixths, .myspaceBaseWrap .lap-four-twelfths {
+  .gameCrusher3Wrap .lap-one-third, .gameCrusher3Wrap .lap-two-sixths, .gameCrusher3Wrap .lap-four-twelfths {
     width: 33.33333%; }
-  .myspaceBaseWrap .lap-two-thirds, .myspaceBaseWrap .lap-four-sixths, .myspaceBaseWrap .lap-eight-twelfths {
+  .gameCrusher3Wrap .lap-two-thirds, .gameCrusher3Wrap .lap-four-sixths, .gameCrusher3Wrap .lap-eight-twelfths {
     width: 66.66667%; }
-  .myspaceBaseWrap .lap-one-quarter, .myspaceBaseWrap .lap-two-eighths, .myspaceBaseWrap .lap-three-twelfths {
+  .gameCrusher3Wrap .lap-one-quarter, .gameCrusher3Wrap .lap-two-eighths, .gameCrusher3Wrap .lap-three-twelfths {
     width: 25%; }
-  .myspaceBaseWrap .lap-three-quarters, .myspaceBaseWrap .lap-six-eighths, .myspaceBaseWrap .lap-nine-twelfths {
+  .gameCrusher3Wrap .lap-three-quarters, .gameCrusher3Wrap .lap-six-eighths, .gameCrusher3Wrap .lap-nine-twelfths {
     width: 75%; }
-  .myspaceBaseWrap .lap-one-fifth, .myspaceBaseWrap .lap-two-tenths {
+  .gameCrusher3Wrap .lap-one-fifth, .gameCrusher3Wrap .lap-two-tenths {
     width: 20%; }
-  .myspaceBaseWrap .lap-two-fifths, .myspaceBaseWrap .lap-four-tenths {
+  .gameCrusher3Wrap .lap-two-fifths, .gameCrusher3Wrap .lap-four-tenths {
     width: 40%; }
-  .myspaceBaseWrap .lap-three-fifths, .myspaceBaseWrap .lap-six-tenths {
+  .gameCrusher3Wrap .lap-three-fifths, .gameCrusher3Wrap .lap-six-tenths {
     width: 60%; }
-  .myspaceBaseWrap .lap-four-fifths, .myspaceBaseWrap .lap-eight-tenths {
+  .gameCrusher3Wrap .lap-four-fifths, .gameCrusher3Wrap .lap-eight-tenths {
     width: 80%; }
-  .myspaceBaseWrap .lap-one-sixth, .myspaceBaseWrap .lap-two-twelfths {
+  .gameCrusher3Wrap .lap-one-sixth, .gameCrusher3Wrap .lap-two-twelfths {
     width: 16.66667%; }
-  .myspaceBaseWrap .lap-five-sixths, .myspaceBaseWrap .lap-ten-twelfths {
+  .gameCrusher3Wrap .lap-five-sixths, .gameCrusher3Wrap .lap-ten-twelfths {
     width: 83.33333%; }
-  .myspaceBaseWrap .lap-one-eighth {
+  .gameCrusher3Wrap .lap-one-eighth {
     width: 12.5%; }
-  .myspaceBaseWrap .lap-three-eighths {
+  .gameCrusher3Wrap .lap-three-eighths {
     width: 37.5%; }
-  .myspaceBaseWrap .lap-five-eighths {
+  .gameCrusher3Wrap .lap-five-eighths {
     width: 62.5%; }
-  .myspaceBaseWrap .lap-seven-eighths {
+  .gameCrusher3Wrap .lap-seven-eighths {
     width: 87.5%; }
-  .myspaceBaseWrap .lap-one-tenth {
+  .gameCrusher3Wrap .lap-one-tenth {
     width: 10%; }
-  .myspaceBaseWrap .lap-three-tenths {
+  .gameCrusher3Wrap .lap-three-tenths {
     width: 30%; }
-  .myspaceBaseWrap .lap-seven-tenths {
+  .gameCrusher3Wrap .lap-seven-tenths {
     width: 70%; }
-  .myspaceBaseWrap .lap-nine-tenths {
+  .gameCrusher3Wrap .lap-nine-tenths {
     width: 90%; }
-  .myspaceBaseWrap .lap-one-twelfth {
+  .gameCrusher3Wrap .lap-one-twelfth {
     width: 8.33333%; }
-  .myspaceBaseWrap .lap-five-twelfths {
+  .gameCrusher3Wrap .lap-five-twelfths {
     width: 41.66667%; }
-  .myspaceBaseWrap .lap-seven-twelfths {
+  .gameCrusher3Wrap .lap-seven-twelfths {
     width: 58.33333%; }
-  .myspaceBaseWrap .lap-eleven-twelfths {
+  .gameCrusher3Wrap .lap-eleven-twelfths {
     width: 91.66667%; } }
 
-@media screen and (min-width: 64em) {
-  .myspaceBaseWrap .desk-one-whole {
+@media screen and (min-width: 56.25em) {
+  .gameCrusher3Wrap .desk-one-whole {
     width: 100%; }
-  .myspaceBaseWrap .desk-one-half, .myspaceBaseWrap .desk-two-quarters, .myspaceBaseWrap .desk-three-sixths, .myspaceBaseWrap .desk-four-eighths, .myspaceBaseWrap .desk-five-tenths, .myspaceBaseWrap .desk-six-twelfths {
+  .gameCrusher3Wrap .desk-one-half, .gameCrusher3Wrap .desk-two-quarters, .gameCrusher3Wrap .desk-three-sixths, .gameCrusher3Wrap .desk-four-eighths, .gameCrusher3Wrap .desk-five-tenths, .gameCrusher3Wrap .desk-six-twelfths {
     width: 50%; }
-  .myspaceBaseWrap .desk-one-third, .myspaceBaseWrap .desk-two-sixths, .myspaceBaseWrap .desk-four-twelfths {
+  .gameCrusher3Wrap .desk-one-third, .gameCrusher3Wrap .desk-two-sixths, .gameCrusher3Wrap .desk-four-twelfths {
     width: 33.33333%; }
-  .myspaceBaseWrap .desk-two-thirds, .myspaceBaseWrap .desk-four-sixths, .myspaceBaseWrap .desk-eight-twelfths {
+  .gameCrusher3Wrap .desk-two-thirds, .gameCrusher3Wrap .desk-four-sixths, .gameCrusher3Wrap .desk-eight-twelfths {
     width: 66.66667%; }
-  .myspaceBaseWrap .desk-one-quarter, .myspaceBaseWrap .desk-two-eighths, .myspaceBaseWrap .desk-three-twelfths {
+  .gameCrusher3Wrap .desk-one-quarter, .gameCrusher3Wrap .desk-two-eighths, .gameCrusher3Wrap .desk-three-twelfths {
     width: 25%; }
-  .myspaceBaseWrap .desk-three-quarters, .myspaceBaseWrap .desk-six-eighths, .myspaceBaseWrap .desk-nine-twelfths {
+  .gameCrusher3Wrap .desk-three-quarters, .gameCrusher3Wrap .desk-six-eighths, .gameCrusher3Wrap .desk-nine-twelfths {
     width: 75%; }
-  .myspaceBaseWrap .desk-one-fifth, .myspaceBaseWrap .desk-two-tenths {
+  .gameCrusher3Wrap .desk-one-fifth, .gameCrusher3Wrap .desk-two-tenths {
     width: 20%; }
-  .myspaceBaseWrap .desk-two-fifths, .myspaceBaseWrap .desk-four-tenths {
+  .gameCrusher3Wrap .desk-two-fifths, .gameCrusher3Wrap .desk-four-tenths {
     width: 40%; }
-  .myspaceBaseWrap .desk-three-fifths, .myspaceBaseWrap .desk-six-tenths {
+  .gameCrusher3Wrap .desk-three-fifths, .gameCrusher3Wrap .desk-six-tenths {
     width: 60%; }
-  .myspaceBaseWrap .desk-four-fifths, .myspaceBaseWrap .desk-eight-tenths {
+  .gameCrusher3Wrap .desk-four-fifths, .gameCrusher3Wrap .desk-eight-tenths {
     width: 80%; }
-  .myspaceBaseWrap .desk-one-sixth, .myspaceBaseWrap .desk-two-twelfths {
+  .gameCrusher3Wrap .desk-one-sixth, .gameCrusher3Wrap .desk-two-twelfths {
     width: 16.66667%; }
-  .myspaceBaseWrap .desk-five-sixths, .myspaceBaseWrap .desk-ten-twelfths {
+  .gameCrusher3Wrap .desk-five-sixths, .gameCrusher3Wrap .desk-ten-twelfths {
     width: 83.33333%; }
-  .myspaceBaseWrap .desk-one-eighth {
+  .gameCrusher3Wrap .desk-one-eighth {
     width: 12.5%; }
-  .myspaceBaseWrap .desk-three-eighths {
+  .gameCrusher3Wrap .desk-three-eighths {
     width: 37.5%; }
-  .myspaceBaseWrap .desk-five-eighths {
+  .gameCrusher3Wrap .desk-five-eighths {
     width: 62.5%; }
-  .myspaceBaseWrap .desk-seven-eighths {
+  .gameCrusher3Wrap .desk-seven-eighths {
     width: 87.5%; }
-  .myspaceBaseWrap .desk-one-tenth {
+  .gameCrusher3Wrap .desk-one-tenth {
     width: 10%; }
-  .myspaceBaseWrap .desk-three-tenths {
+  .gameCrusher3Wrap .desk-three-tenths {
     width: 30%; }
-  .myspaceBaseWrap .desk-seven-tenths {
+  .gameCrusher3Wrap .desk-seven-tenths {
     width: 70%; }
-  .myspaceBaseWrap .desk-nine-tenths {
+  .gameCrusher3Wrap .desk-nine-tenths {
     width: 90%; }
-  .myspaceBaseWrap .desk-one-twelfth {
+  .gameCrusher3Wrap .desk-one-twelfth {
     width: 8.33333%; }
-  .myspaceBaseWrap .desk-five-twelfths {
+  .gameCrusher3Wrap .desk-five-twelfths {
     width: 41.66667%; }
-  .myspaceBaseWrap .desk-seven-twelfths {
+  .gameCrusher3Wrap .desk-seven-twelfths {
     width: 58.33333%; }
-  .myspaceBaseWrap .desk-eleven-twelfths {
+  .gameCrusher3Wrap .desk-eleven-twelfths {
     width: 91.66667%; } }
 
 @media screen and (min-width: 75em) {
-  .myspaceBaseWrap .wall-one-whole {
+  .gameCrusher3Wrap .wall-one-whole {
     width: 100%; }
-  .myspaceBaseWrap .wall-one-half, .myspaceBaseWrap .wall-two-quarters, .myspaceBaseWrap .wall-three-sixths, .myspaceBaseWrap .wall-four-eighths, .myspaceBaseWrap .wall-five-tenths, .myspaceBaseWrap .wall-six-twelfths {
+  .gameCrusher3Wrap .wall-one-half, .gameCrusher3Wrap .wall-two-quarters, .gameCrusher3Wrap .wall-three-sixths, .gameCrusher3Wrap .wall-four-eighths, .gameCrusher3Wrap .wall-five-tenths, .gameCrusher3Wrap .wall-six-twelfths {
     width: 50%; }
-  .myspaceBaseWrap .wall-one-third, .myspaceBaseWrap .wall-two-sixths, .myspaceBaseWrap .wall-four-twelfths {
+  .gameCrusher3Wrap .wall-one-third, .gameCrusher3Wrap .wall-two-sixths, .gameCrusher3Wrap .wall-four-twelfths {
     width: 33.33333%; }
-  .myspaceBaseWrap .wall-two-thirds, .myspaceBaseWrap .wall-four-sixths, .myspaceBaseWrap .wall-eight-twelfths {
+  .gameCrusher3Wrap .wall-two-thirds, .gameCrusher3Wrap .wall-four-sixths, .gameCrusher3Wrap .wall-eight-twelfths {
     width: 66.66667%; }
-  .myspaceBaseWrap .wall-one-quarter, .myspaceBaseWrap .wall-two-eighths, .myspaceBaseWrap .wall-three-twelfths {
+  .gameCrusher3Wrap .wall-one-quarter, .gameCrusher3Wrap .wall-two-eighths, .gameCrusher3Wrap .wall-three-twelfths {
     width: 25%; }
-  .myspaceBaseWrap .wall-three-quarters, .myspaceBaseWrap .wall-six-eighths, .myspaceBaseWrap .wall-nine-twelfths {
+  .gameCrusher3Wrap .wall-three-quarters, .gameCrusher3Wrap .wall-six-eighths, .gameCrusher3Wrap .wall-nine-twelfths {
     width: 75%; }
-  .myspaceBaseWrap .wall-one-fifth, .myspaceBaseWrap .wall-two-tenths {
+  .gameCrusher3Wrap .wall-one-fifth, .gameCrusher3Wrap .wall-two-tenths {
     width: 20%; }
-  .myspaceBaseWrap .wall-two-fifths, .myspaceBaseWrap .wall-four-tenths {
+  .gameCrusher3Wrap .wall-two-fifths, .gameCrusher3Wrap .wall-four-tenths {
     width: 40%; }
-  .myspaceBaseWrap .wall-three-fifths, .myspaceBaseWrap .wall-six-tenths {
+  .gameCrusher3Wrap .wall-three-fifths, .gameCrusher3Wrap .wall-six-tenths {
     width: 60%; }
-  .myspaceBaseWrap .wall-four-fifths, .myspaceBaseWrap .wall-eight-tenths {
+  .gameCrusher3Wrap .wall-four-fifths, .gameCrusher3Wrap .wall-eight-tenths {
     width: 80%; }
-  .myspaceBaseWrap .wall-one-sixth, .myspaceBaseWrap .wall-two-twelfths {
+  .gameCrusher3Wrap .wall-one-sixth, .gameCrusher3Wrap .wall-two-twelfths {
     width: 16.66667%; }
-  .myspaceBaseWrap .wall-five-sixths, .myspaceBaseWrap .wall-ten-twelfths {
+  .gameCrusher3Wrap .wall-five-sixths, .gameCrusher3Wrap .wall-ten-twelfths {
     width: 83.33333%; }
-  .myspaceBaseWrap .wall-one-eighth {
+  .gameCrusher3Wrap .wall-one-eighth {
     width: 12.5%; }
-  .myspaceBaseWrap .wall-three-eighths {
+  .gameCrusher3Wrap .wall-three-eighths {
     width: 37.5%; }
-  .myspaceBaseWrap .wall-five-eighths {
+  .gameCrusher3Wrap .wall-five-eighths {
     width: 62.5%; }
-  .myspaceBaseWrap .wall-seven-eighths {
+  .gameCrusher3Wrap .wall-seven-eighths {
     width: 87.5%; }
-  .myspaceBaseWrap .wall-one-tenth {
+  .gameCrusher3Wrap .wall-one-tenth {
     width: 10%; }
-  .myspaceBaseWrap .wall-three-tenths {
+  .gameCrusher3Wrap .wall-three-tenths {
     width: 30%; }
-  .myspaceBaseWrap .wall-seven-tenths {
+  .gameCrusher3Wrap .wall-seven-tenths {
     width: 70%; }
-  .myspaceBaseWrap .wall-nine-tenths {
+  .gameCrusher3Wrap .wall-nine-tenths {
     width: 90%; }
-  .myspaceBaseWrap .wall-one-twelfth {
+  .gameCrusher3Wrap .wall-one-twelfth {
     width: 8.33333%; }
-  .myspaceBaseWrap .wall-five-twelfths {
+  .gameCrusher3Wrap .wall-five-twelfths {
     width: 41.66667%; }
-  .myspaceBaseWrap .wall-seven-twelfths {
+  .gameCrusher3Wrap .wall-seven-twelfths {
     width: 58.33333%; }
-  .myspaceBaseWrap .wall-eleven-twelfths {
+  .gameCrusher3Wrap .wall-eleven-twelfths {
     width: 91.66667%; } }
 
-.myspaceBaseWrap .cf:after {
+.gameCrusher3Wrap .cf:after {
   display: table;
   content: "";
   clear: both; }
 
-.myspaceBaseWrap .ir {
+.gameCrusher3Wrap .ir {
   border: 0;
   font: 0/0 a;
   text-shadow: none;
   color: transparent; }
 
-.myspaceBaseWrap .hidden {
+.gameCrusher3Wrap .hidden {
   display: none;
   visibility: hidden; }
 
-.myspaceBaseWrap .visuallyhidden {
+.gameCrusher3Wrap .visuallyhidden {
   border: 0;
   clip: rect(0 0 0 0);
   height: 1px;
@@ -334,8 +334,8 @@
   position: absolute;
   width: 1px; }
 
-.myspaceBaseWrap .visuallyhidden.focusable:active,
-.myspaceBaseWrap .visuallyhidden.focusable:focus {
+.gameCrusher3Wrap .visuallyhidden.focusable:active,
+.gameCrusher3Wrap .visuallyhidden.focusable:focus {
   clip: auto;
   height: auto;
   margin: 0;
@@ -343,205 +343,377 @@
   position: static;
   width: auto; }
 
-@media screen and (max-width: 29.99em) {
-  .myspaceBaseWrap .hidden-below-hand {
+@media screen and (max-width: 19.99em) {
+  .gameCrusher3Wrap .hidden-below-hand {
     display: none; } }
 
-@media screen and (min-width: 30em) {
-  .myspaceBaseWrap .hidden-hand-and-up {
+@media screen and (min-width: 20em) {
+  .gameCrusher3Wrap .hidden-hand-and-up {
     display: none; } }
 
-@media screen and (max-width: 47.99em) {
-  .myspaceBaseWrap .hidden-below-lap {
+@media screen and (max-width: 40.615em) {
+  .gameCrusher3Wrap .hidden-below-lap {
     display: none; } }
 
-@media screen and (min-width: 48em) {
-  .myspaceBaseWrap .hidden-lap-and-up {
+@media screen and (min-width: 40.625em) {
+  .gameCrusher3Wrap .hidden-lap-and-up {
     display: none; } }
 
-@media screen and (max-width: 63.99em) {
-  .myspaceBaseWrap .hidden-below-desk {
+@media screen and (max-width: 56.24em) {
+  .gameCrusher3Wrap .hidden-below-desk {
     display: none; } }
 
-@media screen and (min-width: 64em) {
-  .myspaceBaseWrap .hidden-desk-and-up {
+@media screen and (min-width: 56.25em) {
+  .gameCrusher3Wrap .hidden-desk-and-up {
     display: none; } }
 
 @media screen and (max-width: 74.99em) {
-  .myspaceBaseWrap .hidden-below-wall {
+  .gameCrusher3Wrap .hidden-below-wall {
     display: none; } }
 
 @media screen and (min-width: 75em) {
-  .myspaceBaseWrap .hidden-wall-and-up {
+  .gameCrusher3Wrap .hidden-wall-and-up {
     display: none; } }
 
-.myspaceBaseWrap .float-right {
+.gameCrusher3Wrap .float-right {
   float: right !important; }
 
-.myspaceBaseWrap .float-left {
+.gameCrusher3Wrap .float-left {
   float: left !important; }
 
-.myspaceBaseWrap .text-left {
+.gameCrusher3Wrap .text-left {
   text-align: left !important; }
 
-.myspaceBaseWrap .text-center {
+.gameCrusher3Wrap .text-center {
   text-align: center !important; }
 
-.myspaceBaseWrap .text-right {
+.gameCrusher3Wrap .text-right {
   text-align: right !important; }
 
-.myspaceBaseWrap .text-upper {
+.gameCrusher3Wrap .text-upper {
   text-transform: uppercase !important; }
 
-.myspaceBaseWrap .text-strong {
+.gameCrusher3Wrap .text-strong {
   font-weight: bold !important; }
 
-.myspaceBaseWrap .text-nowrap {
+.gameCrusher3Wrap .text-nowrap {
   white-space: nowrap !important; }
 
-.myspaceBaseWrap .display-table {
+.gameCrusher3Wrap .display-table {
   display: table;
   width: 100%; }
 
-.myspaceBaseWrap .display-row {
+.gameCrusher3Wrap .display-row {
   display: table-row; }
 
-.myspaceBaseWrap .display-cell {
+.gameCrusher3Wrap .display-cell {
   display: table-cell;
   vertical-align: middle; }
 
-.myspaceBaseWrap .anchor-plain {
+.gameCrusher3Wrap .anchor-plain {
   color: inherit; }
-  .myspaceBaseWrap .anchor-plain:hover, .myspaceBaseWrap .anchor-plain:focus {
+  .gameCrusher3Wrap .anchor-plain:hover, .gameCrusher3Wrap .anchor-plain:focus {
     text-decoration: none; }
 
-html .mySpaceBaseWrap {
-  font: 1em/1.75 Arial, Helvetica, sans-serif;
-  color: #000000;
+html .gameCrusher3Wrap {
+  font: 0.625em/2.8 "Lato", Arial, Helvetica, sans-serif !important;
+  color: #333333;
   background: #ffffff;
   -webkit-tap-highlight-color: transparent; }
 
-.mySpaceBaseWrap a {
+.gameCrusher3Wrap a {
   color: #7abcb5;
   text-decoration: none; }
-  .mySpaceBaseWrap a:hover, .mySpaceBaseWrap a:focus {
+  .gameCrusher3Wrap a:hover, .gameCrusher3Wrap a:focus {
     text-decoration: underline; }
 
-.mySpaceBaseWrap i {
+.gameCrusher3Wrap i {
   font-style: normal; }
 
-.mySpaceBaseWrap h1, .mySpaceBaseWrap .h1,
-.mySpaceBaseWrap h2, .mySpaceBaseWrap .h2,
-.mySpaceBaseWrap h3, .mySpaceBaseWrap .h3,
-.mySpaceBaseWrap h4, .mySpaceBaseWrap .h4,
-.mySpaceBaseWrap h5, .mySpaceBaseWrap .h5,
-.mySpaceBaseWrap h6, .mySpaceBaseWrap .h6 {
-  font-family: Arial, Helvetica, sans-serif;
+.gameCrusher3Wrap h1, .gameCrusher3Wrap .h1,
+.gameCrusher3Wrap h2, .gameCrusher3Wrap .h2,
+.gameCrusher3Wrap h3, .gameCrusher3Wrap .h3,
+.gameCrusher3Wrap h4, .gameCrusher3Wrap .h4,
+.gameCrusher3Wrap h5, .gameCrusher3Wrap .h5,
+.gameCrusher3Wrap h6, .gameCrusher3Wrap .h6 {
+  font-family: "Lato", Arial, Helvetica, sans-serif !important;
   font-weight: normal; }
 
-.mySpaceBaseWrap h1, .mySpaceBaseWrap .h1 {
+.gameCrusher3Wrap h1, .gameCrusher3Wrap .h1 {
   font-size: 1.875rem;
   line-height: 1; }
 
-.mySpaceBaseWrap h2, .mySpaceBaseWrap .h2 {
+.gameCrusher3Wrap h2, .gameCrusher3Wrap .h2 {
   font-size: 1.25rem;
   line-height: 1.2; }
 
-.mySpaceBaseWrap h3, .mySpaceBaseWrap .h3 {
+.gameCrusher3Wrap h3, .gameCrusher3Wrap .h3 {
   font-size: 1rem;
   line-height: 1.4; }
 
-.mySpaceBaseWrap h4, .mySpaceBaseWrap .h4 {
+.gameCrusher3Wrap h4, .gameCrusher3Wrap .h4 {
   font-size: 0.875rem; }
 
-@media screen and (min-width: 48em) {
-  .mySpaceBaseWrap h1, .mySpaceBaseWrap .h1 {
+@media screen and (min-width: 40.625em) {
+  .gameCrusher3Wrap h1, .gameCrusher3Wrap .h1 {
     font-size: 3.6rem; }
-  .mySpaceBaseWrap h2, .mySpaceBaseWrap .h2 {
+  .gameCrusher3Wrap h2, .gameCrusher3Wrap .h2 {
     font-size: 2.4rem; }
-  .mySpaceBaseWrap h3, .mySpaceBaseWrap .h3 {
+  .gameCrusher3Wrap h3, .gameCrusher3Wrap .h3 {
     font-size: 1.5rem; }
-  .mySpaceBaseWrap h4, .mySpaceBaseWrap .h4 {
+  .gameCrusher3Wrap h4, .gameCrusher3Wrap .h4 {
     font-size: 1.2rem; } }
 
-.mySpaceBaseWrap .island,
-.mySpaceBaseWrap .islet,
-.mySpaceBaseWrap .landmark,
-.mySpaceBaseWrap .landmarklet {
+.gameCrusher3Wrap .island,
+.gameCrusher3Wrap .islet,
+.gameCrusher3Wrap .landmark,
+.gameCrusher3Wrap .landmarklet {
   display: block; }
-  .mySpaceBaseWrap .island:after,
-  .mySpaceBaseWrap .islet:after,
-  .mySpaceBaseWrap .landmark:after,
-  .mySpaceBaseWrap .landmarklet:after {
+  .gameCrusher3Wrap .island:after,
+  .gameCrusher3Wrap .islet:after,
+  .gameCrusher3Wrap .landmark:after,
+  .gameCrusher3Wrap .landmarklet:after {
     display: table;
     content: "";
     clear: both; }
-  .mySpaceBaseWrap .island > :last-child,
-  .mySpaceBaseWrap .islet > :last-child,
-  .mySpaceBaseWrap .landmark > :last-child,
-  .mySpaceBaseWrap .landmarklet > :last-child {
+  .gameCrusher3Wrap .island > :last-child,
+  .gameCrusher3Wrap .islet > :last-child,
+  .gameCrusher3Wrap .landmark > :last-child,
+  .gameCrusher3Wrap .landmarklet > :last-child {
     margin-bottom: 0; }
 
-.mySpaceBaseWrap .island {
-  padding-top: 1.75rem;
-  padding-bottom: 1.75rem; }
+.gameCrusher3Wrap .island {
+  padding-top: 2.8rem;
+  padding-bottom: 2.8rem; }
 
-.mySpaceBaseWrap .islet {
-  padding-top: 0.875rem;
-  padding-bottom: 0.875rem; }
+.gameCrusher3Wrap .islet {
+  padding-top: 1.4rem;
+  padding-bottom: 1.4rem; }
 
-.mySpaceBaseWrap .landmark {
-  margin-bottom: 3.5rem; }
+.gameCrusher3Wrap .landmark {
+  margin-bottom: 5.6rem; }
 
-.mySpaceBaseWrap .landmarklet {
-  margin-bottom: 1.75rem; }
+.gameCrusher3Wrap .landmarklet {
+  margin-bottom: 2.8rem; }
 
-.mySpaceBaseWrap .media:after {
+.gameCrusher3Wrap .media:after {
   display: table;
   content: "";
   clear: both; }
 
-.mySpaceBaseWrap .media__item {
+.gameCrusher3Wrap .media__item {
   float: left;
-  margin-right: 0.875rem; }
-  .mySpaceBaseWrap .media__item img,
-  .mySpaceBaseWrap .media__item video,
-  .mySpaceBaseWrap .media__item iframe,
-  .mySpaceBaseWrap .media__item object {
+  margin-right: 1.4rem; }
+  .gameCrusher3Wrap .media__item img,
+  .gameCrusher3Wrap .media__item video,
+  .gameCrusher3Wrap .media__item iframe,
+  .gameCrusher3Wrap .media__item object {
     display: block; }
 
-.mySpaceBaseWrap .media__body,
-.mySpaceBaseWrap .media__body > :last-child {
+.gameCrusher3Wrap .media__body,
+.gameCrusher3Wrap .media__body > :last-child {
   margin-bottom: 0; }
 
-.mySpaceBaseWrap .media--flip > .media__item {
+.gameCrusher3Wrap .media--flip > .media__item {
   float: right;
   margin-right: 0;
-  margin-left: 0.875rem; }
+  margin-left: 1.4rem; }
 
-.mySpaceBaseWrap .media--nowrap > .media__body {
+.gameCrusher3Wrap .media--nowrap > .media__body {
   overflow: hidden; }
 
-.mySpaceBaseWrap .media--valign {
+.gameCrusher3Wrap .media--valign {
   display: table;
   width: 100%; }
-  .mySpaceBaseWrap .media--valign .media__item,
-  .mySpaceBaseWrap .media--valign .media__body {
+  .gameCrusher3Wrap .media--valign .media__item,
+  .gameCrusher3Wrap .media--valign .media__body {
     float: none;
     display: table-cell;
     vertical-align: middle; }
-  .mySpaceBaseWrap .media--valign .media__item {
-    padding-right: 0.875rem; }
-    .mySpaceBaseWrap .media--valign .media__item img {
+  .gameCrusher3Wrap .media--valign .media__item {
+    padding-right: 1.4rem; }
+    .gameCrusher3Wrap .media--valign .media__item img {
       width: auto !important;
       max-width: none !important; }
 
 body {
   min-width: 320px; }
 
-.mySpaceBaseWrap .site-wrapper {
-  max-width: 1440px;
+.gameCrusher3Wrap .site-wrapper {
+  max-width: 2000px;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 1.75rem;
-  padding-right: 1.75rem; }
+  padding-left: 2%;
+  padding-right: 2%; }
+
+html {
+  /** end body */ }
+  html body {
+    margin: 0;
+    /** end .gameCrusher3Wrap */ }
+    html body .gameCrusher3Wrap {
+      font-size: 10px !important;
+      line-height: 1.3 !important;
+      text-align: center;
+      overflow: hidden;
+      -webkit-font-smoothing: antialiased;
+      /** end .site-wrapper */ }
+      html body .gameCrusher3Wrap *, html body .gameCrusher3Wrap :before, html body .gameCrusher3Wrap :after {
+        box-sizing: border-box; }
+      html body .gameCrusher3Wrap .site-wrapper {
+        padding: 0;
+        /** end .accordionModule */ }
+        html body .gameCrusher3Wrap .site-wrapper h1, html body .gameCrusher3Wrap .site-wrapper h2, html body .gameCrusher3Wrap .site-wrapper h3, html body .gameCrusher3Wrap .site-wrapper h4, html body .gameCrusher3Wrap .site-wrapper h5, html body .gameCrusher3Wrap .site-wrapper h6 {
+          text-transform: uppercase;
+          letter-spacing: 2px; }
+        html body .gameCrusher3Wrap .site-wrapper .accordionModule {
+          color: #ffffff;
+          text-align: left; }
+          html body .gameCrusher3Wrap .site-wrapper .accordionModule .item {
+            padding: 0 2%;
+            background-color: rgba(51, 51, 51, 0.9);
+            position: relative;
+            cursor: pointer;
+            border-bottom: thin solid #ffffff; }
+            html body .gameCrusher3Wrap .site-wrapper .accordionModule .item:last-child {
+              border-bottom: none; }
+            html body .gameCrusher3Wrap .site-wrapper .accordionModule .item h3 {
+              margin: 2.5em 0;
+              transition: margin-bottom .5s ease-in-out; }
+            html body .gameCrusher3Wrap .site-wrapper .accordionModule .item p, html body .gameCrusher3Wrap .site-wrapper .accordionModule .item img {
+              transition: margin-bottom .5s ease-in-out; }
+            html body .gameCrusher3Wrap .site-wrapper .accordionModule .item p.learnMore {
+              text-transform: uppercase;
+              font-weight: bold;
+              font-size: 1.5em;
+              display: none; }
+            html body .gameCrusher3Wrap .site-wrapper .accordionModule .item .subtext {
+              text-transform: uppercase;
+              font-weight: bold; }
+            html body .gameCrusher3Wrap .site-wrapper .accordionModule .item img.learnMoreBtn {
+              max-width: 50px;
+              position: absolute;
+              right: 2%;
+              top: 40%;
+              top: calc(50% - 25px);
+              z-index: 2;
+              transition: -webkit-transform .45s ease-in-out;
+              transition: transform .45s ease-in-out;
+              transition: transform .45s ease-in-out, -webkit-transform .45s ease-in-out; }
+            html body .gameCrusher3Wrap .site-wrapper .accordionModule .item .content {
+              display: none; }
+            html body .gameCrusher3Wrap .site-wrapper .accordionModule .item .copy {
+              border: none; }
+              html body .gameCrusher3Wrap .site-wrapper .accordionModule .item .copy h3 {
+                border: none; }
+            html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.activeItem img.learnMoreBtn {
+              -webkit-transform: rotate(47deg);
+                  -ms-transform: rotate(47deg);
+                      transform: rotate(47deg); }
+            html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.activeItem:hover .copy h3.main {
+              margin-bottom: 2em; }
+            html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.activeItem:hover .copy p.learnMore {
+              display: none; }
+            html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.activeItem .copy h3.main {
+              display: none; }
+            html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.activeItem .copy .content {
+              display: block;
+              max-width: 500px;
+              float: left;
+              width: 80%; }
+              html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.activeItem .copy .content h3 {
+                margin: 1em 0;
+                font-size: 2.5em; }
+              html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.activeItem .copy .content p {
+                font-size: 1.5em; }
+                html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.activeItem .copy .content p:last-child {
+                  margin-bottom: 2em; }
+            html body .gameCrusher3Wrap .site-wrapper .accordionModule .item:hover .copy h3.main {
+              margin-bottom: 1em; }
+            html body .gameCrusher3Wrap .site-wrapper .accordionModule .item:hover .copy p.learnMore {
+              margin-bottom: 2em;
+              display: block; }
+
+/** end html */
+@media (min-width: 900px) {
+  html body .gameCrusher3Wrap .site-wrapper .flex-container {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-flow: row nowrap;
+        -ms-flex-flow: row nowrap;
+            flex-flow: row nowrap;
+    -webkit-justify-content: flex-start;
+        -ms-flex-pack: start;
+            justify-content: flex-start; }
+    html body .gameCrusher3Wrap .site-wrapper .flex-container .item {
+      -webkit-flex-flow: column nowrap;
+          -ms-flex-flow: column nowrap;
+              flex-flow: column nowrap;
+      -webkit-justify-content: flex-start;
+          -ms-flex-pack: start;
+              justify-content: flex-start;
+      -webkit-align-content: stretch;
+          -ms-flex-line-pack: stretch;
+              align-content: stretch; }
+  html body .gameCrusher3Wrap .site-wrapper .accordionModule .item {
+    border-bottom: none;
+    border-right: thin solid #ffffff;
+    min-height: 600px; }
+    html body .gameCrusher3Wrap .site-wrapper .accordionModule .item .copy {
+      position: absolute;
+      z-index: 10;
+      width: 88%;
+      top: 46%;
+      top: calc(50% - 66px); }
+      html body .gameCrusher3Wrap .site-wrapper .accordionModule .item .copy h3.main {
+        margin: 0 0 2em 0; }
+    html body .gameCrusher3Wrap .site-wrapper .accordionModule .item img.learnMoreBtn {
+      position: static; }
+    html body .gameCrusher3Wrap .site-wrapper .accordionModule .item:last-child {
+      border-right: none; }
+    html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.closedItem .copy {
+      -webkit-transform: rotate(90deg);
+          -ms-transform: rotate(90deg);
+              transform: rotate(90deg);
+      width: 100%;
+      top: 4%;
+      left: 0;
+      white-space: nowrap; }
+      html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.closedItem .copy h3.main {
+        margin-bottom: .15em; }
+    html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.closedItem:hover img, html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.closedItem:hover p.learnMore {
+      margin: 0; }
+    html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.closedItem:hover h3.main {
+      margin-bottom: .15em; }
+    html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.closedItem:hover p.learnMore {
+      position: absolute;
+      right: -18em;
+      top: .5em; }
+    html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.activeItem .copy {
+      top: calc(50% - 140px); }
+      html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.activeItem .copy .content {
+        float: none; }
+        html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.activeItem .copy .content h3 {
+          font-size: 3.5em;
+          font-weight: lighter;
+          margin-top: 0; } }
+
+@media (min-width: 1200px) {
+  html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.closedItem .copy {
+    top: 8%; }
+    html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.closedItem .copy h3.main {
+      margin-bottom: .5em; } }
+
+@media (min-width: 1650px) {
+  html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.closedItem .copy {
+    top: 12%; }
+    html body .gameCrusher3Wrap .site-wrapper .accordionModule .item.closedItem .copy h3.main {
+      margin-bottom: .25em; }
+  html body .gameCrusher3Wrap .site-wrapper .accordionModule .item .copy {
+    top: calc(50% - 102px); }
+    html body .gameCrusher3Wrap .site-wrapper .accordionModule .item .copy h3.main {
+      font-size: 4.5em;
+      font-weight: lighter; }
+  html body .gameCrusher3Wrap .site-wrapper .accordionModule .item img.learnMoreBtn {
+    max-width: 75px; } }

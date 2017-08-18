@@ -1,12 +1,12 @@
 //------------------------------------//
 //  $PRINT
 //------------------------------------//
-.mySpaceBaseWrap {
+.gameCrusher3Wrap {
   .visible-print { display: none !important; }
 }
 
 @include media($type: print) {
-  .mySpaceBaseWrap {
+  .gameCrusher3Wrap {
     * {
       // scss-lint:disable ColorVariable
       background: transparent !important;
@@ -19,7 +19,7 @@
 
   @page { margin: .5cm; }
 
-  .mySpaceBaseWrap {
+  .gameCrusher3Wrap {
 
     thead { display: table-header-group; }
     table, tr, img { page-break-inside: avoid; }

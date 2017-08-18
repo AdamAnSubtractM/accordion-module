@@ -1,7 +1,7 @@
 //------------------------------------//
 //  $SHARED
 //------------------------------------//
-.myspaceBaseWrap {
+.gameCrusher3Wrap {
   // All elements will adopt `box-sizing:border-box;`
   // as per paulirish.com/2012/box-sizing-border-box-ftw
   * {
@@ -31,7 +31,7 @@
 }
 
 @if $reset != true {
-  .myspaceBaseWrap {
+  .gameCrusher3Wrap {
     // Where `margin-bottom` is concerned, this value will be the same as the
     // base line-height. This allows us to keep a consistent vertical rhythm.
     // As per: csswizardry.com/2012/06/single-direction-margin-declarations

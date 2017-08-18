@@ -18,7 +18,7 @@
 .sg-colors li {
   border: 1px solid #cccccc;
   background: #ffffff;
-  padding: 6.4px;
+  padding: 4px;
   margin-bottom: 14px; }
 
 .sg-swatch {
@@ -33,9 +33,9 @@
     top: 100px; }
 
 .sg-colors li:nth-of-type(1) .sg-swatch {
-  background: #000000; }
+  background: #333333; }
   .sg-colors li:nth-of-type(1) .sg-swatch:after {
-    content: "#000000"; }
+    content: "#333333"; }
 
 .sg-colors li:nth-of-type(2) .sg-swatch {
   background: #666666; }
