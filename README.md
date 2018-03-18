@@ -60,7 +60,7 @@ Built on spaceBase:
 
 ## Getting Started
 ```sh
-1. $ git clone the project directory
+1. $ git clone https://github.com/AdamAndSubtractThem/accordion-module
 2. $ npm install
 3. $ gulp launch
 ```
