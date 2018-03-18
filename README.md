@@ -1,7 +1,7 @@
-accordianModule
+accordion-module
 =========
 
-The accordianModule can be used to effectively display a lot of content in a small area while providing some cool functionality.
+The accordion-module can be used to effectively display a lot of content in a small area while providing some cool functionality.
 
 ## There are a few things to know before using this in your project:
 
@@ -24,7 +24,7 @@ The accordianModule can be used to effectively display a lot of content in a sma
     * The difference between the two is that 'master' doesn't have a background image funcitonality but 'include-BG-Images' does. This will be specific to your project
 
 5. Questions?
-    * Adam.Knee@dcsg.com
+    * Adam.L.Knee@gmail.com
 
 ## Using the boilerplate & getting started:
 
@@ -62,7 +62,7 @@ Built on spaceBase:
 ```sh
 1. $ git clone the project directory
 2. $ npm install
-3. $ gulp launch or 'gulp dev' to start the tasker
+3. $ gulp launch
 ```
 3. Open scss/_vars.scss to make changes to your global variables.
 4. Start building out your HTML. I've included index.html as a starting point.
@@ -129,7 +129,7 @@ You can remove:
 
 mySpaceBase is free to use under the [MIT License](LICENSE.md).
 
-Copyright 2017 [Adam Knee](http://www.adamknee.net)
+Copyright 2017-2018 [Adam Knee](http://www.adamknee.net)
 
 ## Original Theme License
 
